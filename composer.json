@@ -1,0 +1,14 @@
+{
+    "name": "hasukmistry/facebook-sdk",
+    "description": "Integrates facebook sdk which allows basic operations with facebook.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Hasmukh Mistry",
+            "email": "hasmukhmistry137@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/graph-sdk": "^5.6"
+    }
+}
