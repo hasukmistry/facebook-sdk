@@ -66,7 +66,7 @@ $token = $_SESSION['fb_access_token'];
 FBtokens::set_default_access_token( $token );
 ```
 
-# Functions for performing facebook pages
+# Functions for performing operations on facebook pages
 1 => Create object and getting token to work with facebook page.
 ```
 $page = FBpage::get( '{page-id}' );
