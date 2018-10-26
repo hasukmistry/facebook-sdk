@@ -102,3 +102,6 @@ $token = $_SESSION['fb_access_token'];
 
 FBtokens::destroy_user_access_token( $token );
 ```
+
+# Demo
+https://github.com/hasukmistry/facebook-sdk-examples.git
