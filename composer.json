@@ -9,6 +9,6 @@
         }
     ],
     "require": {
-        "facebook/graph-sdk": "^5.6"
+        "facebook/graph-sdk": "^5.7"
     }
 }
